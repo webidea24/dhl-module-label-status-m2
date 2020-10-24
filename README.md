@@ -1,3 +1,10 @@
+# WARNINGS
+This repo is a fork of https://github.com/netresearch/dhl-module-shipping-m2.
+
+In this repo the dependencies has been removed to support all magento versions.
+
+Use this on your own risk!
+
 # DHL Label Status extension
 
 This extension adds status icons for orders created with the DHL Shipping
